@@ -86,10 +86,32 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
   </a>
 </p> -->
 
-### Registration
-Participation is free, and we welcome statistics researchers and graduate students interested in FDA.
+<!-- SECCIÓN DE UBICACIÓN VISUAL (MAPA) -->
+<h3 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; color: #0f2027; margin-top: 40px;">📍 Location & Venue</h3>
 
-> ⚠️ **Important:** In-person places are strictly limited to **40 participants**. All refreshments, coffee breaks, and lunch will be provided on-site.
+<p align="center" style="margin: 20px 0;">
+  <a href="https://maps.app.goo.gl/AAj6MSduvwaYmQDg6" target="_blank">
+    <!-- IMAGEN LIMPIA DE MAPA DE LONDRES / QMUL -->
+    <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=650&h=300&q=80" alt="Queen Mary University of London Map Location" style="border-radius: 8px; border: 1px solid #e1e4e8; max-width: 100%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+  </a>
+  <br>
+  <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; font-size: 11px; color: #888888; display: inline-block; margin-top: 8px;">🗺️ Click the map to get interactive directions in Google Maps</span>
+</p>
+
+<!-- SECCIÓN DE REGISTRO CON EL BOTÓN AZUL -->
+<p align="center" style="margin: 30px 0;">
+  <a href="TU_ENLACE_DE_MICROSOFT_FORMS" target="_blank" style="background: linear-gradient(135deg, #203a43, #2c5364); color: white; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block;">
+    📝 Register Here to Reserve Your Seat
+  </a>
+</p>
+
+<!-- LETRA CHICA DE SEGURIDAD -->
+<p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; font-size: 11px; color: #888888; margin-top: 15px;">
+  🔒 Secured by Queen Mary University of London Microsoft Suite. Automatic receipts will be issued.
+</p>
+
+### Registration
+Participation is free, and we welcome statistics researchers and graduate students interested in FDA. All refreshments, coffee breaks, and lunch will be provided on-site.
 
 <p align="center" style="margin: 30px 0;">
   <!-- BOTÓN AZUL -->
