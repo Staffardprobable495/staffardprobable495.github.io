@@ -48,7 +48,7 @@ Participation is free, and we welcome statistics researchers and graduate studen
 
 > ⚠️ **Important:** In-person places are strictly limited to **30 participants**. All refreshments, coffee breaks, and lunch will be provided on-site.
 
-[👉 CLICK HERE TO REGISTER VIA GOOGLE FORMS](https://forms.google.com/TU_LINK_DE_FORMULARIO)
+[👉 CLICK HERE TO REGISTER VIA GITHUB](https://github.com/uk-fda-meeting/uk-fda-meeting.github.io/issues/new?template=registration.yml)
 
 #### Schedule
 
