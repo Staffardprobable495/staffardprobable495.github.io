@@ -60,7 +60,7 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 #### Event Details
 * **Date:** 17th or 18th of September 2026 (TBC)
 * **Time:** 10:30 AM – 17:30 PM
-* **Location:** QMUL | Mile End Campus | London | – Room TBC
+* **Location:** QMUL - Mile End Campus, London – Room TBC
 * **Format:** In person
 
 
@@ -102,7 +102,7 @@ Participation is free, and we welcome statistics researchers and graduate studen
 
   <!-- BOTÓN DE REGISTRO DIRECTO -->
   <p style="margin: 20px 0;">
-    <a href="TU_ENLACE_DE_MICROSOFT_FORMS" target="_blank" style="background: linear-gradient(135deg, #203a43, #2c5364); color: white; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block;">
+    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=kfCdVhOw40CG7r2cueJYFJ5rKHnL3edJvjeyucEIyaZUQjA2RU9HS1E4VUk4QVZFVDBDRzlPMkU1US4u" target="_blank" style="background: linear-gradient(135deg, #203a43, #2c5364); color: white; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block;">
       📝 Register Here to Reserve Your Seat
     </a>
   </p>
