@@ -1,5 +1,12 @@
-| <img src="lms.png" height="40"> | <img src="qmul.png" height="40"> | <img src="leeds.png" height="40"> | <img src="nottingham.png" height="40"> |
+| <img src="LMS.png" height="50"> | <img src="QMUL.png" height="50"> | <img src="LEEDS.png" height="50"> | <img src="NOTT.png" height="50"> |
 | :---: | :---: | :---: | :---: |
+
+<!-- Recordar pedirle el título provisional a Yi Yu antes de agosto  <p align="center">
+  <img src="lms.png" alt="LMS" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="qmul.png" alt="QMUL" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="leeds.png" alt="Leeds" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="nottingham.png" alt="Nottingham" height="60">
+</p> -->
 
 ***
 
@@ -9,7 +16,7 @@ The group brings together mathematical, theoretical, and applied statisticians f
 
 ---
 
-## 1st UK Functional Data Analysis Network Meeting
+<!--## 1st UK Functional Data Analysis Network Meeting-->
 
 <p align="center">
   <!-- BANNER CONCEPTUAL DE FDA GENERADO POR CÓDIGO -->
