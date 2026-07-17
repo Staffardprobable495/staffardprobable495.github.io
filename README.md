@@ -1,7 +1,6 @@
-Supported by the **London Mathematical Society (LMS) Scheme 3 grant**, our network aims to create a permanent, collaborative space for regular interaction, discussion, and long-term joint research within the UK’s Functional Data Analysis community. 
+Supported by the **London Mathematical Society (LMS) Scheme 3 grant**, our network aims to create a permanent, collaborative space for regular interaction, discussion, and long-term joint research within the UK’s Functional Data Analysis community.
 
-The group brings together mathematical and theoretical statisticians from across the country to form a stronger, more cohesive research network.
-
+The group brings together mathematical, theoretical, and applied statisticians from across the country to form a stronger, more connected, and collaborative research network.
 ---
 
 ## Network Events
