@@ -80,10 +80,50 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 
 ---
 
+<!--<p align="center" style="margin: 30px 0;">
+  <a href="AQUÍ_VA_EL_ENLACE_DE_COMPARTIR_DE_TU_MICROSOFT_FORMS" target="_blank" style="background: linear-gradient(135deg, #203a43, #2c5364); color: white; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; transition: transform 0.2s;">
+    📝 Register Here for the FDA Meeting
+  </a>
+</p> -->
+
 ### Registration
 Participation is free, and we welcome statistics researchers and graduate students interested in FDA.
 
 > ⚠️ **Important:** In-person places are strictly limited to **40 participants**. All refreshments, coffee breaks, and lunch will be provided on-site.
+
+<div style="background: #ffffff; padding: 30px; border-radius: 8px; border: 1px solid #e1e4e8; max-width: 650px; margin: 20px auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; color: #24292e; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  
+  <h3 style="margin-top: 0; color: #0f2027; font-size: 24px; border-bottom: 1px solid #eaecef; padding-bottom: 10px; text-align: center;">Registration Form</h3>
+  <p style="color: #586069; font-size: 14px; margin-bottom: 25px; text-align: center;">Select your attendance preference to launch the official university registration gateway:</p>
+
+  <table align="center" style="border: none; width: 100%;">
+    <tr>
+      <!-- Opción 1: In-person -->
+      <td align="center" style="border: none; width: 50%; padding: 10px;">
+        <a href="TU_ENLACE_DE_MICROSOFT_FORMS_OPCION_IN_PERSON" target="_blank" style="text-decoration: none;">
+          <div style="background: #f6f8fa; border: 2px solid #203a43; border-radius: 6px; padding: 20px; cursor: pointer;">
+            <span style="font-size: 30px;">🏫</span>
+            <h4 style="margin: 10px 0 5px 0; color: #203a43;">In-Person Attendance</h4>
+            <p style="font-size: 12px; color: #586069; margin: 0;">Reserve a seat at QMUL (Max 40 places)</p>
+          </div>
+        </a>
+      </td>
+      
+      <!-- Opción 2: Online -->
+      <td align="center" style="border: none; width: 50%; padding: 10px;">
+        <a href="TU_ENLACE_DE_MICROSOFT_FORMS_OPCION_ONLINE" target="_blank" style="text-decoration: none;">
+          <div style="background: #f6f8fa; border: 1px solid #d1d5da; border-radius: 6px; padding: 20px; cursor: pointer;">
+            <span style="font-size: 30px;">💻</span>
+            <h4 style="margin: 10px 0 5px 0; color: #24292e;">Online Streaming</h4>
+            <p style="font-size: 12px; color: #586069; margin: 0;">Join virtually via Microsoft Teams</p>
+          </div>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <p style="font-size: 11px; color: #888888; text-align: center; margin-top: 15px;">🔒 Secured by Queen Mary University of London Microsoft Suite. Automatic receipts will be issued.</p>
+</div>
 
 <div style="background: #ffffff; padding: 30px; border-radius: 8px; border: 1px solid #e1e4e8; max-width: 650px; margin: 20px auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #24292e; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
   
