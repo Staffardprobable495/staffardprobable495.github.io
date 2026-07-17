@@ -64,7 +64,7 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 * **Format:** In person
 
 <!-- SECCIÓN DEL MAPA INTERACTIVO REAL -->
-### 📍 Location & Venue
+#### 📍 Location & Venue
 
 <iframe src="https://maps.app.goo.gl/JYAG15V8Gq39F3Ez5" width="100%" height="450" style="border:1px solid #e1e4e8; border-radius: 8px; max-width: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
