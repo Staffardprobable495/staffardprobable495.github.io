@@ -107,24 +107,8 @@ Participation is free, and we welcome statistics researchers and graduate studen
     </a>
   </p>
   
-  <p style="font-size: 11px; color: #888888; margin-top: 20px;">🔒 Official Registration Gateway secured by QMUL Microsoft Suite. An automatic email receipt will be sent upon submission.</p>
-</div>
-      
-      <!-- Opción 2: Online -->
-      <td align="center" style="border: none; width: 50%; padding: 10px;">
-        <a href="TU_ENLACE_DE_MICROSOFT_FORMS_OPCION_ONLINE" target="_blank" style="text-decoration: none;">
-          <div style="background: #f6f8fa; border: 1px solid #d1d5da; border-radius: 6px; padding: 20px; cursor: pointer;">
-            <span style="font-size: 30px;">💻</span>
-            <h4 style="margin: 10px 0 5px 0; color: #24292e;">Online Streaming</h4>
-            <p style="font-size: 12px; color: #586069; margin: 0;">Join virtually via Microsoft Teams</p>
-          </div>
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <p style="font-size: 11px; color: #888888; text-align: center; margin-top: 15px;">🔒 Secured by Queen Mary University of London Microsoft Suite. Automatic receipts will be issued.</p>
-</div>
+<p style="font-size: 11px; color: #888888; text-align: center; margin-top: 15px;">🔒 Secured by Queen Mary University of London Microsoft Suite. Automatic receipts will be issued.</p>
+</div> 
 
 ## Joint Research Group Committee
 
