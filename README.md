@@ -63,6 +63,21 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 * **Location:** QMUL - Mile End Campus, London – Room TBC
 * **Format:** In person
 
+<!-- SECCIÓN DEL MAPA INTERACTIVO REAL -->
+<h3 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; color: #0f2027; margin-top: 40px;">📍 Location & Venue</h3>
+
+<div align="center" style="margin: 20px 0;">
+  <!-- Ventana real de Google Maps con Zoom y movimiento habilitados -->
+  <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.4334651351547!2d-0.04300302337853111!3d51.52362797181653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!2f46.1!3m3!1m2!1s0x48761d2f4edd3ddd%3A0xc0cc9bdec7320519!2sQueen%20Mary%20University%20of%20London!5e0!3m2!1ses!2scl!4v1721235000000!5m2!1ses!2scl" 
+    width="100%" 
+    height="400" 
+    style="border:1px solid #e1e4e8; border-radius: 8px; max-width: 650px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
 
 #### Schedule
 
@@ -85,30 +100,6 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
     📝 Register Here for the FDA Meeting
   </a>
 </p> -->
-
-<!-- SECCIÓN DE UBICACIÓN VISUAL (MAPA) -->
-<h3 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; color: #0f2027; margin-top: 40px;">📍 Location & Venue</h3>
-
-<p align="center" style="margin: 20px 0;">
-  <a href="https://maps.app.goo.gl/AAj6MSduvwaYmQDg6" target="_blank">
-    <!-- IMAGEN LIMPIA DE MAPA DE LONDRES / QMUL -->
-    <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=650&h=300&q=80" alt="Queen Mary University of London Map Location" style="border-radius: 8px; border: 1px solid #e1e4e8; max-width: 100%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-  </a>
-  <br>
-  <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; font-size: 11px; color: #888888; display: inline-block; margin-top: 8px;">🗺️ Click the map to get interactive directions in Google Maps</span>
-</p>
-
-<!-- SECCIÓN DE REGISTRO CON EL BOTÓN AZUL -->
-<p align="center" style="margin: 30px 0;">
-  <a href="TU_ENLACE_DE_MICROSOFT_FORMS" target="_blank" style="background: linear-gradient(135deg, #203a43, #2c5364); color: white; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block;">
-    📝 Register Here to Reserve Your Seat
-  </a>
-</p>
-
-<!-- LETRA CHICA DE SEGURIDAD -->
-<p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; font-size: 11px; color: #888888; margin-top: 15px;">
-  🔒 Secured by Queen Mary University of London Microsoft Suite. Automatic receipts will be issued.
-</p>
 
 ### Registration
 Participation is free, and we welcome statistics researchers and graduate students interested in FDA. All refreshments, coffee breaks, and lunch will be provided on-site.
