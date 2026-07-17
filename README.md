@@ -69,7 +69,7 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 <div align="center" style="margin: 20px 0;">
   <!-- Ventana real de Google Maps con Zoom y movimiento habilitados -->
   <iframe 
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.4334651351547!2d-0.04300302337853111!3d51.52362797181653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!2f46.1!3m3!1m2!1s0x48761d2f4edd3ddd%3A0xc0cc9bdec7320519!2sQueen%20Mary%20University%20of%20London!5e0!3m2!1ses!2scl!4v1721235000000!5m2!1ses!2scl" 
+    src="https://maps.app.goo.gl/AAj6MSduvwaYmQDg6" 
     width="100%" 
     height="400" 
     style="border:1px solid #e1e4e8; border-radius: 8px; max-width: 650px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" 
