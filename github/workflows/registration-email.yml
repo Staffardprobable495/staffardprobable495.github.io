@@ -1,0 +1,33 @@
+name: Registration Email Notifications
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  send-emails:
+    if: contains(github.event.issue.labels.*.name, 'registration')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Confirmation Emails
+        uses: dawidd6/action-send-mail@v3
+        with:
+          # Configuración del servidor de correo seguro de GitHub
+          connection_url: ${{secrets.MAIL_CONNECTION_URL}}
+          
+          # 1. CORREO PARA TI (ORGANIZADOR)
+          to: n.hernandez@qmul.ac.uk
+          from: "UK FDA Network <registration@uk-fda-meeting.github.io>"
+          subject: "New Registration: ${{ github.event.issue.title }}"
+          html_body: |
+            <h2>New Participant Registered</h2>
+            <p>A new registration has been submitted for the 1st UK FDA Network Meeting.</p>
+            <p>You can review the full details and manage the participant list here:</p>
+            <a href="${{ github.event.issue.html_url }}">${{ github.event.issue.html_url }}</a>
+            <br><br>
+            <hr>
+            <p><em>UK Functional Data Analysis Joint Research Group Committee</em></p>
+
+          # 2. CORREO PARA EL PARTICIPANTE (CONFIRMACIÓN)
+          # GitHub toma automáticamente el email de la persona que abrió la Issue si está verificado,
+          # o puedes responder directamente sobre la misma Issue escribiendo un comentario que le llegará a su mail.
