@@ -61,8 +61,8 @@ Participation is free, and we welcome statistics researchers and graduate studen
 
 ---
 <p align="center">
-  <img src="https://via.placeholder.com/100x45?text=LMS+Logo" alt="LMS" height="35"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/100x45?text=QMUL+Logo" alt="QMUL" height="35"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/100x45?text=Leeds+Logo" alt="Leeds" height="35"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/100x45?text=Nottingham+Logo" alt="Nottingham" height="35">
+  <img src="LMS.png" alt="LMS" height="35"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="QMUL.png" alt="QMUL" height="35"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="LEEDS.png" alt="Leeds" height="35"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="NOTT.png" alt="Nottingham" height="35">
 </p>
