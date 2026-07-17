@@ -91,24 +91,17 @@ Participation is free, and we welcome statistics researchers and graduate studen
 
 > ⚠️ **Important:** In-person places are strictly limited to **40 participants**. All refreshments, coffee breaks, and lunch will be provided on-site.
 
-<div style="background: #ffffff; padding: 35px; border-radius: 8px; border: 1px solid #e1e4e8; max-width: 600px; margin: 30px auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; color: #24292e; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center;">
-  
-  <span style="font-size: 40px;">🏫</span>
-  <h3 style="margin-top: 10px; color: #0f2027; font-size: 24px; font-weight: bold;">In-Person Registration</h3>
-  <p style="color: #586069; font-size: 14px; margin-bottom: 25px;">
-    This event will be held exclusively <strong>in-person</strong> at Queen Mary University of London.<br>
-    Places are limited to 40 participants.
-  </p>
+<p align="center" style="margin: 30px 0;">
+  <!-- BOTÓN AZUL -->
+  <a href="TU_ENLACE_DE_MICROSOFT_FORMS" target="_blank" style="background: linear-gradient(135deg, #203a43, #2c5364); color: white; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block;">
+    📝 Register Here to Reserve Your Seat
+  </a>
+</p>
 
-  <!-- BOTÓN DE REGISTRO DIRECTO -->
-  <p style="margin: 20px 0;">
-    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=kfCdVhOw40CG7r2cueJYFJ5rKHnL3edJvjeyucEIyaZUQjA2RU9HS1E4VUk4QVZFVDBDRzlPMkU1US4u" target="_blank" style="background: linear-gradient(135deg, #203a43, #2c5364); color: white; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block;">
-      📝 Register Here to Reserve Your Seat
-    </a>
-  </p>
-  
-<p style="font-size: 11px; color: #888888; text-align: center; margin-top: 15px;">🔒 Secured by Queen Mary University of London Microsoft Suite. Automatic receipts will be issued.</p>
-</div> 
+<!-- LETRA CHICA -->
+<p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; font-size: 11px; color: #888888; margin-top: 15px;">
+  🔒 Secured by Queen Mary University of London Microsoft Suite. Automatic receipts will be issued.
+</p>
 
 ## Joint Research Group Committee
 
