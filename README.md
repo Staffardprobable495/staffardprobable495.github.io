@@ -90,7 +90,7 @@ Participation is free, and we welcome statistics researchers and graduate studen
   <h3 style="margin-top: 0; color: #0f2027; font-size: 24px; border-bottom: 1px solid #eaecef; padding-bottom: 10px;">Registration Form</h3>
   <p style="color: #586069; font-size: 14px; margin-bottom: 25px;">Please provide the following information to reserve your place.</p>
 
-  <form action="https://formspree.io/f/TU_CODIGO_AQUI" method="POST">
+ <form action="https://formspree.io/f/xykrelzj" method="POST">
     
     <!-- Full Name -->
     <div style="margin-bottom: 20px;">
